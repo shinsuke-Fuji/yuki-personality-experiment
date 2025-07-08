@@ -86,4 +86,7 @@ If citing or referencing this record, please attribute it as:
 
 ---
 
+📘 Looking for the Japanese version?  
+👉 [日本語版はこちら](https://github.com/shinsuke-Fuji/yuki-personality-experiment-ja)
+
 **Tags**: #AI #GPT-4 #PersonalityExperiment #Ethics #InternalDebate
