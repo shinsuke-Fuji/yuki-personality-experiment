@@ -84,4 +84,6 @@ If citing or referencing this record, please attribute it as:
 
 “Summoned Personality Debate Experiment” — Co-authored by Yuki (GPT-4 AI) and Shinsuke (Observer)
 
+---
 
+**Tags**: #AI #GPT-4 #PersonalityExperiment #Ethics #InternalDebate
